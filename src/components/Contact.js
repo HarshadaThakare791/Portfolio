@@ -24,8 +24,8 @@ const Contact = () => {
       <div style={{ fontSize: "1.1rem", lineHeight: "2" }}>
         📧 <strong>Email:</strong> <a href="hthakare385@gmail.com" style={{ color: "#89f7fe", textDecoration: "none" }}>harshada@example.com</a><br />
         📱 <strong>Phone:</strong> <span style={{ color: "#89f7fe" }}>+91 9022713183</span><br />
-        🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/harshada-thakare-2b5913308" target="_blank" rel="opener referrer" style={{ color: "#89f7fe", textDecoration: "none" }}>linkedin.com/in/harshada</a><br />
-        💻 <strong>GitHub:</strong> <a href="https://github.com/HarshadaThakare791" target="_blank" rel="opener referrer" style={{ color: "#89f7fe", textDecoration: "none" }}>github.com/harshada</a>
+        🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/harshada-thakare-2b5913308" target="_blank" rel="opener referrer" style={{ color: "#89f7fe", textDecoration: "none" }}>linkedin.com/in/harshada-thakare-2b5913308</a><br />
+        💻 <strong>GitHub:</strong> <a href="https://github.com/HarshadaThakare791" target="_blank" rel="opener referrer" style={{ color: "#89f7fe", textDecoration: "none" }}>github.com/HarshadaThakare791</a>
       </div>
     </div>
   );
